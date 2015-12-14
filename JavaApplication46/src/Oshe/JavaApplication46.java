@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication46;
+package Oshe;
 
 import javax.sound.midi.SysexMessage;
 
@@ -19,6 +19,9 @@ public class JavaApplication46 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Oshe tu te quiero :3");
+        //Isntatlll maquina virtual(virtual box)
+        //hacer repositorio agregar colaboradores
+        //
     }
     
     
